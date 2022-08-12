@@ -100,12 +100,12 @@ Polling Api
 ## Git Clone
 To use this repository in your local system-
 
-<a href="https://github.com/PranjalAgrawal1/polling-API.git" target="_blank">https://github.com/PranjalAgrawal1/polling-API.git </a>
+<a href="https://github.com/mkgithubproject/pollingApiUsingNodejs.git" target="_blank">https://github.com/mkgithubproject/pollingApiUsingNodejs.git </a>
 
 
 or run this command in your GitHub CLI
 
-###### `gh repo clone PranjalAgrawal1/polling-API`
+###### `gh repo clone mkgithubproject/pollingApiUsingNodejs`
 <br>
 
 
