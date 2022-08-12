@@ -17,7 +17,7 @@
 - Heroku
 
 ## Routes
-- GET  -  / (No content)
+- GET  -  / (README.md)
 - POST -  /questions/create  (To create a question)
 - POST -  /questions/:id/options/create  (To add options to a specific question)
 - POST -  /questions/:id/delete (To delete a question)

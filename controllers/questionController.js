@@ -1,7 +1,8 @@
 const Question=require('../models/question');
 const Option=require('../models/option');
+const path=require('path');
 module.exports.home=function(req,res){
-    res.status(201).json({Status: 'No Content'});
+    return res.sendFile(path.join(__dirname,'../README.md'));
 } 
 module.exports.create= function(req,res){// create question
    Question.create({
